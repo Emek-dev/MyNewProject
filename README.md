@@ -1,0 +1,2 @@
+# MyNewProject
+Test Automation project
